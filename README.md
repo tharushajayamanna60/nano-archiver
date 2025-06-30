@@ -18,11 +18,7 @@ It uses strong AES-256 encryption and compression to securely bundle files into 
 
 ---
 
-## Screenshots
 
-*(Add screenshots here to show your GUI)*
-
----
 
 ## Getting Started
 
