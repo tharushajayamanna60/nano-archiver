@@ -10,8 +10,8 @@ It uses strong AES-256 encryption and compression to securely bundle files into 
 
 - **AES-256 encryption** with password protection  
 - Efficient compression with `zlib`  
-- Custom `.nano` archive format with file integrity checks  
-- Simple and elegant PyQt5 GUI with dark theme  
+- Custom `.nano` archive format with file integrity checks
+  
 - Progress bar for compression and extraction  
 - Cross-device portable `.nano` files  
 - Free to use with full rights reserved by the author  
