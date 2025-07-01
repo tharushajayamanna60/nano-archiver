@@ -9,7 +9,7 @@ It uses strong AES-256 encryption and compression to securely bundle files into 
 ## Features
 
 - **AES-256 encryption** with password protection  
-- Efficient compression with `zlib`  
+- Efficient compression   
 - Custom `.nano` archive format with file integrity checks
   
 - Progress bar for compression and extraction  
